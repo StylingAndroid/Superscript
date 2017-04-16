@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Superscript</string>
+  <string name="superscript_text">Check that 1st, 11th, 22nd and 23rd are all handled correctly</string>
+</resources>
